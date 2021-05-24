@@ -1,0 +1,134 @@
+.instrucoes{
+    padding: 30px;
+    background: #b4b1b2;
+    margin-top: 30px;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+
+.creditos{
+    padding: 30px;
+    background: #b4b1b2;
+    margin-top: 30px;
+    border-radius: 5px;
+    margin-right: 30px;
+}
+
+.instrucoes > h1{
+    font-size: 1.5em;
+}
+
+.creditos > h1{
+    font-size: 1.5em;
+}
+
+.jogo{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.video{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.criadores{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 2.0em;
+}
+
+.desenvolvedores{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.dev1{
+    width: 50%;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.desenvolvedores > p{
+    margin-top: 30px;
+}
+
+.desenvolvedores h4{
+    margin-top: 30px;
+}
+
+.infos{
+    text-align: center;
+    font-size: 1.8em;
+    margin-top: 30px;
+}
+
+.tituloVideo{
+    text-align: center;
+    font-size: 1.8em;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.historia{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 1.8em;
+}
+
+.einstein{
+    max-width: 50%;
+    margin-left: 50px;
+}
+
+.stark{
+    max-width: 50%;
+    margin-left: 50px;
+}
+
+.geinzel{
+    max-width: 50%;
+    margin-left: 50px;
+}
+
+.titulo1{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 1.5em;
+    color: black;
+}
+
+.titulo2{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 1.5em;
+    color: black;
+}
+
+.main_area2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.footer{
+    background: #6c757d;
+    padding: 1px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.footer h1{
+    text-align: right;
+    font-size: 1.4em;
+    color: white;
+    margin: 30px;
+}
+
+.footer p{
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
