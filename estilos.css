@@ -1,4 +1,4 @@
-.instrucoes{
+.instrucoes {
     padding: 30px;
     background: #d1cfd0;
     margin-top: 30px;
@@ -6,7 +6,7 @@
     margin-left: 30px;
 }
 
-.creditos{
+.creditos {
     padding: 30px;
     background: #d1cfd0;
     margin-top: 30px;
@@ -14,85 +14,85 @@
     margin-right: 30px;
 }
 
-.instrucoes > h1{
+.instrucoes>h1 {
     font-size: 1.5em;
 }
 
-.creditos > h1{
+.creditos>h1 {
     font-size: 1.5em;
 }
 
-.jogo{
+.jogo {
     text-align: center;
     margin-top: 40px;
 }
 
-.video{
+.video {
     text-align: center;
     margin-top: 30px;
 }
 
-.criadores{
+.criadores {
     text-align: center;
     margin-top: 30px;
     font-size: 2.0em;
 }
 
-.desenvolvedores{
+.desenvolvedores {
     margin-top: 30px;
     margin-bottom: 30px;
 }
 
-.dev1{
+.dev1 {
     width: 50%;
     margin-top: 30px;
     margin-left: 30px;
 }
 
-.desenvolvedores > p{
+.desenvolvedores>p {
     margin-top: 30px;
 }
 
-.desenvolvedores h4{
+.desenvolvedores h4 {
     margin-top: 30px;
 }
 
-.infos{
+.infos {
     text-align: center;
     font-size: 1.8em;
     margin-top: 30px;
 }
 
-.tituloVideo{
+.tituloVideo {
     text-align: center;
     font-size: 1.8em;
     margin-top: 30px;
     margin-bottom: 30px;
 }
 
-.historia{
+.historia {
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
     font-size: 1.8em;
 }
 
-.einstein{
+.einstein {
     max-width: 50%;
     margin-left: 50px;
 }
 
-.stark{
+.stark {
     max-width: 50%;
     margin-left: 50px;
 }
 
-.geinzel{
+.geinzel {
     max-width: 50%;
     margin-left: 50px;
 }
 
-.titulo1{
+.titulo1 {
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -100,7 +100,7 @@
     color: black;
 }
 
-.titulo2{
+.titulo2 {
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -108,27 +108,31 @@
     color: black;
 }
 
-.main_area2{
+.main_area2 {
     margin-top: 30px;
     margin-bottom: 30px;
 }
 
-.footer{
+.footer {
     background: #6c757d;
     padding: 1px;
     justify-content: space-between;
     display: flex;
 }
 
-.footer h1{
+.footer h1 {
     text-align: right;
     font-size: 1.4em;
     color: white;
     margin: 30px;
 }
 
-.footer p{
+.footer p {
     text-align: left;
     margin-top: 30px;
     margin-left: 30px;
+}
+
+a:link {
+    text-decoration: none;
 }
