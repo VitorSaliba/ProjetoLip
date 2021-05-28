@@ -136,3 +136,9 @@
 a:link {
     text-decoration: none;
 }
+
+.botao {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    text-align: center;
+}
